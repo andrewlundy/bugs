@@ -1,3 +1,5 @@
 # Bugs
 
-p Hello Andrew
+|Photo |Name  | Notes|
+--- | --- | ---
+|photo|name|notes|

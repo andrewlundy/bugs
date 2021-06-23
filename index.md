@@ -1,9 +1,6 @@
 # Bugs
 
-Testing butterfly image
 
-![Butterfly](https://github.com/andrewlundy/bugs/blob/main/images/06-23-2021/butterfly.jpg)
-
-|Photo |Name  | Notes|
---- | --- | ---
-|photo|name|notes|
+|Date|Name |Photo  | Notes|
+--- | --- | --- | ---
+|6-23-2021| Butterfly | <img src="https://github.com/andrewlundy/bugs/blob/main/images/06-23-2021/butterfly.jpg" /> |Captured at Bar Harbor, ME|
